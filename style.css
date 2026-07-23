@@ -463,7 +463,7 @@ blockquote{
 .contact-form{
     position: absolute;
     top: 250px;
-    left: 65%;
+    left: 75%;
     transform: translateX(-50%);
     width: 320px;
     background: #1d2436;
