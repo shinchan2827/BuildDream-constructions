@@ -1,16 +1,16 @@
 const projects = [
   {
-    image: "images/9723510-waterfront-luxury-villa-in-turks-.jpg",
+    image: "9723510-waterfront-luxury-villa-in-turks-.jpg",
     title: "Luxury Villa",
     desc: "Modern luxury villa with premium design and construction."
   },
   {
-    image: "images/4952584.jpg",
+    image: "4952584.jpg",
     title: "Commercial Building",
     desc: "Beautiful modern commercial spaces built for efficiency, innovation, and success."
   },
   {
-    image: "images/3671451.jpg",
+    image: "3671451.jpg",
     title: "Bridge",
     desc: "A modern bridge designed for strength, safety, and long-term reliability."
   },
